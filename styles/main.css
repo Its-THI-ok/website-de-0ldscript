@@ -1,0 +1,62 @@
+
+
+body {
+  background-image: url(../images/backgound-image.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+}
+
+#title {
+  font-family: cursive;
+  margin-left: 2%;
+  color: white;
+}
+
+.about-me {
+  position: absolute;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: white;
+  border: ridge black 5px;
+  border-radius: 5px;
+  margin-top: 8%;
+  margin-left: 8%;
+  padding: 20px 20px 240px 0px;
+  width: 80%;
+}
+
+#title-about {
+  font-size: 30px;
+  margin: 10px;
+  padding: 0% 40%;
+}
+
+#text-about {
+  margin: 0;
+  padding: 10px 20%;
+}
+
+#project {
+  position: absolute;
+  font-size: 30px;
+  color: black;
+  padding: 250px 0px 0px 35%;
+}
+
+img {
+  width: auto;
+  max-height: 100%;
+}
+
+.imagens {
+  position: relative;
+  padding: 350px 0 0 22.5%;
+  height: 200px;
+}
